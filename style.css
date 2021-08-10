@@ -1,0 +1,37 @@
+img {
+    width: 100px;
+    height: 100px;
+    margin-left: 10%;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+a {
+    margin-right: 20px;
+    text-decoration: none;
+}
+h1 {
+    border: 1px solid;
+    color: black;
+    text-align: center;
+    max-width: 500px;
+}
+nav {
+    display: flex;
+    margin-right: 300px;
+}
+h2 {
+    border: 1px solid;
+    color: black;
+    text-align: center;
+    max-width: 500px;
+}
+h3 {
+    border: 1px solid;
+    color: black;
+}
+p {
+    border: 1px solid;
+    color: black;
+}
